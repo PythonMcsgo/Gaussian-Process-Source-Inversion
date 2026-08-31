@@ -1,0 +1,2 @@
+"source","chains","pooled_retained_draws","max_Rhat_hyperparameters","min_ESS_hyperparameters","max_Rhat_downstream","min_ESS_downstream","mean_sampling_acceptance","min_ESS_per_second","total_sampling_seconds"
+"mixture",4,480,1.00798780200874,572.485014120382,1.00229386079976,799.145022839996,0.226428571428571,14.2338392372049,40.22

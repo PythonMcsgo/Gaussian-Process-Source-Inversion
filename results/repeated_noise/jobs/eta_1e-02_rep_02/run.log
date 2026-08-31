@@ -1,0 +1,63 @@
+Warning messages:
+1: package 'ggplot2' was built under R version 4.3.3 
+2: package 'gridExtra' was built under R version 4.3.3 
+Building high-resolution data generator and inverse Green matrix...
+Kernel PSD, symmetry and constant-diagonal checks passed.
+
+Source: Hidden narrow spike
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+
+Source: Broad plus sharp source
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+
+Source: Positive-negative dipole
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+
+Source: Ring-shaped source
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+
+Source: Moving-edge source
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+
+Source: Sine-cosine source
+  Hyperparameter method: Multi-start EB
+    fitting: rbf
+    fitting: matern05
+    fitting: matern15
+    fitting: matern25
+Skipping model averaging because --skip-ensemble=true or MAP is absent.
+
+Completed. Results: C:/Users/Intel/Desktop/source_inversion/results/repeated_noise/jobs/eta_1e-02_rep_02
+   hyper_method    hyper_label   kernel      label       RMSE        MAE
+2 multistart_eb Multi-start EB matern15 Matern 1.5 0.09355285 0.05816252
+3 multistart_eb Multi-start EB matern25 Matern 2.5 0.09399750 0.05838634
+1 multistart_eb Multi-start EB matern05 Matern 0.5 0.09579264 0.05958173
+4 multistart_eb Multi-start EB      rbf        RBF 0.09626032 0.06027038
+  Coverage95   Width95 CalibrationMAE       CRPS       NLPD
+2  0.9106683 0.2887563      0.0991254 0.04804465 -0.6983371
+3  0.8788420 0.2509275      0.1126926 0.04812402 -0.3874602
+1  0.9592504 0.4758615      0.1320116 0.05228613 -0.8995966
+4  0.8187587 0.2037377      0.1471791 0.04967241  0.6301419
+
+Model-combination comparison:
+Not requested for this run.

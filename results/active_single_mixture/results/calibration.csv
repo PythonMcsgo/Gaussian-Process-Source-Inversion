@@ -1,0 +1,33 @@
+"source","source_label","budget","method","label","nominal","empirical"
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.5,0.986317668054729
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.6,0.988102320047591
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.7,0.988697204045211
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.8,0.990481856038073
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.9,0.992266508030934
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.95,0.992861392028554
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.975,0.994051160023795
+"mixture","Broad plus sharp source",16,"uniform","Uniform",0.99,0.995240928019036
+"mixture","Broad plus sharp source",16,"random","Random",0.5,0.977989292088043
+"mixture","Broad plus sharp source",16,"random","Random",0.6,0.98750743604997
+"mixture","Broad plus sharp source",16,"random","Random",0.7,0.989886972040452
+"mixture","Broad plus sharp source",16,"random","Random",0.8,0.991671624033314
+"mixture","Broad plus sharp source",16,"random","Random",0.9,0.992266508030934
+"mixture","Broad plus sharp source",16,"random","Random",0.95,0.993456276026175
+"mixture","Broad plus sharp source",16,"random","Random",0.975,0.995240928019036
+"mixture","Broad plus sharp source",16,"random","Random",0.99,0.995240928019036
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.5,0.988102320047591
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.6,0.988102320047591
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.7,0.989886972040452
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.8,0.991076740035693
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.9,0.992266508030934
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.95,0.993456276026175
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.975,0.994051160023795
+"mixture","Broad plus sharp source",16,"max_source_variance","Max source variance",0.99,0.995240928019036
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.5,0.947055324211779
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.6,0.968471148126115
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.7,0.991076740035693
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.8,0.992266508030934
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.9,0.992266508030934
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.95,0.994051160023795
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.975,0.995240928019036
+"mixture","Broad plus sharp source",16,"variance_times_gradient","Variance x |gradient mean|",0.99,0.996430696014277

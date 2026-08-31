@@ -1,0 +1,193 @@
+"source","hyper_method","kernel","label","nominal","empirical","mean_width"
+"spike","multistart_eb","rbf","RBF",0.5,0.825698988697204,0.0338883114014513
+"spike","multistart_eb","rbf","RBF",0.6,0.860797144556811,0.0422854794118089
+"spike","multistart_eb","rbf","RBF",0.7,0.886377156454491,0.0520734042879326
+"spike","multistart_eb","rbf","RBF",0.8,0.91017251635931,0.064388848781716
+"spike","multistart_eb","rbf","RBF",0.9,0.929803688280785,0.082642192714913
+"spike","multistart_eb","rbf","RBF",0.95,0.944675788221297,0.0984742463831565
+"spike","multistart_eb","rbf","RBF",0.975,0.94883997620464,0.112614540972724
+"spike","multistart_eb","rbf","RBF",0.99,0.956573468173706,0.12941709719128
+"spike","multistart_eb","matern05","Matern 0.5",0.5,0.922070196311719,0.0571353690462916
+"spike","multistart_eb","matern05","Matern 0.5",0.6,0.934562760261749,0.0712929140337631
+"spike","multistart_eb","matern05","Matern 0.5",0.7,0.946460440214158,0.0877952618011044
+"spike","multistart_eb","matern05","Matern 0.5",0.8,0.959547888161808,0.108558983480412
+"spike","multistart_eb","matern05","Matern 0.5",0.9,0.966686496133254,0.139333946847499
+"spike","multistart_eb","matern05","Matern 0.5",0.95,0.972635336109459,0.166026637975716
+"spike","multistart_eb","matern05","Matern 0.5",0.975,0.979773944080904,0.189867039470717
+"spike","multistart_eb","matern05","Matern 0.5",0.99,0.984533016061868,0.218195988620634
+"spike","multistart_eb","matern15","Matern 1.5",0.5,0.882807852468769,0.0443049372949729
+"spike","multistart_eb","matern15","Matern 1.5",0.6,0.908387864366449,0.0552832359108877
+"spike","multistart_eb","matern15","Matern 1.5",0.7,0.925639500297442,0.0680797837455489
+"spike","multistart_eb","matern15","Matern 1.5",0.8,0.938132064247472,0.0841807629177784
+"spike","multistart_eb","matern15","Matern 1.5",0.9,0.953004164187983,0.108044839495794
+"spike","multistart_eb","matern15","Matern 1.5",0.95,0.96133254015467,0.128743366982535
+"spike","multistart_eb","matern15","Matern 1.5",0.975,0.964306960142772,0.147230120651128
+"spike","multistart_eb","matern15","Matern 1.5",0.99,0.972040452111838,0.169197464814122
+"spike","multistart_eb","matern25","Matern 2.5",0.5,0.867935752528257,0.040454387357373
+"spike","multistart_eb","matern25","Matern 2.5",0.6,0.892920880428317,0.0504785600985795
+"spike","multistart_eb","matern25","Matern 2.5",0.7,0.913741820345033,0.0621629576972931
+"spike","multistart_eb","matern25","Matern 2.5",0.8,0.930993456276026,0.0768645979214915
+"spike","multistart_eb","matern25","Matern 2.5",0.9,0.945865556216538,0.0986546433826909
+"spike","multistart_eb","matern25","Matern 2.5",0.95,0.955383700178465,0.117554258184106
+"spike","multistart_eb","matern25","Matern 2.5",0.975,0.960737656157049,0.13443432482116
+"spike","multistart_eb","matern25","Matern 2.5",0.99,0.965496728138013,0.154492483217049
+"mixture","multistart_eb","rbf","RBF",0.5,0.530636525877454,0.0478444814024811
+"mixture","multistart_eb","rbf","RBF",0.6,0.608566329565735,0.0596998419114693
+"mixture","multistart_eb","rbf","RBF",0.7,0.69244497323022,0.0735187124995307
+"mixture","multistart_eb","rbf","RBF",0.8,0.765020820939917,0.090906007135311
+"mixture","multistart_eb","rbf","RBF",0.9,0.841165972635336,0.116676597000333
+"mixture","multistart_eb","rbf","RBF",0.95,0.875074360499703,0.139028740437639
+"mixture","multistart_eb","rbf","RBF",0.975,0.903033908387864,0.158992410314893
+"mixture","multistart_eb","rbf","RBF",0.99,0.92325996430696,0.182714736841863
+"mixture","multistart_eb","matern05","Matern 0.5",0.5,0.844735276621059,0.116664442425182
+"mixture","multistart_eb","matern05","Matern 0.5",0.6,0.911957168352171,0.145572667219084
+"mixture","multistart_eb","matern05","Matern 0.5",0.7,0.947055324211779,0.179268733825803
+"mixture","multistart_eb","matern05","Matern 0.5",0.8,0.966686496133254,0.221666079862466
+"mixture","multistart_eb","matern05","Matern 0.5",0.9,0.982748364069007,0.284505333407283
+"mixture","multistart_eb","matern05","Matern 0.5",0.95,0.989886972040452,0.339009014389513
+"mixture","multistart_eb","matern05","Matern 0.5",0.975,0.991076740035693,0.38768861853022
+"mixture","multistart_eb","matern05","Matern 0.5",0.99,0.992266508030934,0.445533367102488
+"mixture","multistart_eb","matern15","Matern 1.5",0.5,0.65437239738251,0.0682743995023043
+"mixture","multistart_eb","matern15","Matern 1.5",0.6,0.761451516954194,0.0851920793664763
+"mixture","multistart_eb","matern15","Matern 1.5",0.7,0.839976204640095,0.104911701432461
+"mixture","multistart_eb","matern15","Matern 1.5",0.8,0.892920880428317,0.129723488820044
+"mixture","multistart_eb","matern15","Matern 1.5",0.9,0.93634741225461,0.166498295365722
+"mixture","multistart_eb","matern15","Matern 1.5",0.95,0.957763236168947,0.198394955670882
+"mixture","multistart_eb","matern15","Matern 1.5",0.975,0.966091612135634,0.226883248004239
+"mixture","multistart_eb","matern15","Matern 1.5",0.99,0.975609756097561,0.26073516887264
+"mixture","multistart_eb","matern25","Matern 2.5",0.5,0.596073765615705,0.0589353082785028
+"mixture","multistart_eb","matern25","Matern 2.5",0.6,0.693634741225461,0.0735388593228198
+"mixture","multistart_eb","matern25","Matern 2.5",0.7,0.791790600832838,0.0905610816208736
+"mixture","multistart_eb","matern25","Matern 2.5",0.8,0.854848304580607,0.111978924169288
+"mixture","multistart_eb","matern25","Matern 2.5",0.9,0.901249256395003,0.143723393200885
+"mixture","multistart_eb","matern25","Matern 2.5",0.95,0.932183224271267,0.171256985906829
+"mixture","multistart_eb","matern25","Matern 2.5",0.975,0.950624628197501,0.195848433114472
+"mixture","multistart_eb","matern25","Matern 2.5",0.99,0.965496728138013,0.225069830984568
+"dipole","multistart_eb","rbf","RBF",0.5,0.770374776918501,0.0776995617935643
+"dipole","multistart_eb","rbf","RBF",0.6,0.835812016656752,0.0969526979850529
+"dipole","multistart_eb","rbf","RBF",0.7,0.881618084473528,0.119394579633678
+"dipole","multistart_eb","rbf","RBF",0.8,0.920880428316478,0.14763159118389
+"dipole","multistart_eb","rbf","RBF",0.9,0.951814396192742,0.189483095912918
+"dipole","multistart_eb","rbf","RBF",0.95,0.966091612135634,0.225783034783936
+"dipole","multistart_eb","rbf","RBF",0.975,0.972635336109459,0.258204086403352
+"dipole","multistart_eb","rbf","RBF",0.99,0.979179060083284,0.296729206163012
+"dipole","multistart_eb","matern05","Matern 0.5",0.5,0.96133254015467,0.178695505343172
+"dipole","multistart_eb","matern05","Matern 0.5",0.6,0.967876264128495,0.222974376700512
+"dipole","multistart_eb","matern05","Matern 0.5",0.7,0.975609756097561,0.274586809119468
+"dipole","multistart_eb","matern05","Matern 0.5",0.8,0.980368828078525,0.339527034416387
+"dipole","multistart_eb","matern05","Matern 0.5",0.9,0.98750743604997,0.435778230874811
+"dipole","multistart_eb","matern05","Matern 0.5",0.95,0.994051160023795,0.519261789478615
+"dipole","multistart_eb","matern05","Matern 0.5",0.975,0.997620464009518,0.593824580685609
+"dipole","multistart_eb","matern05","Matern 0.5",0.99,1,0.682425669095208
+"dipole","multistart_eb","matern15","Matern 1.5",0.5,0.926829268292683,0.118426901971904
+"dipole","multistart_eb","matern15","Matern 1.5",0.6,0.953004164187983,0.147771845749824
+"dipole","multistart_eb","matern15","Matern 1.5",0.7,0.967876264128495,0.181976961669628
+"dipole","multistart_eb","matern15","Matern 1.5",0.8,0.976799524092802,0.225014807979764
+"dipole","multistart_eb","matern15","Matern 1.5",0.9,0.984533016061868,0.288803379414563
+"dipole","multistart_eb","matern15","Matern 1.5",0.95,0.986317668054729,0.344130452090798
+"dipole","multistart_eb","matern15","Matern 1.5",0.975,0.989886972040452,0.393545463106685
+"dipole","multistart_eb","matern15","Matern 1.5",0.99,0.994051160023795,0.452264077162125
+"dipole","multistart_eb","matern25","Matern 2.5",0.5,0.895300416418798,0.102201856846837
+"dipole","multistart_eb","matern25","Matern 2.5",0.6,0.927424152290303,0.127526404675344
+"dipole","multistart_eb","matern25","Matern 2.5",0.7,0.953599048185604,0.157045258098484
+"dipole","multistart_eb","matern25","Matern 2.5",0.8,0.967281380130875,0.19418671611474
+"dipole","multistart_eb","matern25","Matern 2.5",0.9,0.979773944080904,0.24923595186854
+"dipole","multistart_eb","matern25","Matern 2.5",0.95,0.983343248066627,0.296982954173411
+"dipole","multistart_eb","matern25","Matern 2.5",0.975,0.986317668054729,0.339627875199282
+"dipole","multistart_eb","matern25","Matern 2.5",0.99,0.989886972040452,0.390301761689723
+"ring","multistart_eb","rbf","RBF",0.5,0.482450922070196,0.104329315269067
+"ring","multistart_eb","rbf","RBF",0.6,0.545508625817965,0.130181024973387
+"ring","multistart_eb","rbf","RBF",0.7,0.605591909577632,0.160314349945942
+"ring","multistart_eb","rbf","RBF",0.8,0.653182629387269,0.198228953481354
+"ring","multistart_eb","rbf","RBF",0.9,0.690065437239738,0.254424107360862
+"ring","multistart_eb","rbf","RBF",0.95,0.713860797144557,0.303165022744454
+"ring","multistart_eb","rbf","RBF",0.975,0.739440809042237,0.346697650698565
+"ring","multistart_eb","rbf","RBF",0.99,0.76918500892326,0.39842637699258
+"ring","multistart_eb","matern05","Matern 0.5",0.5,0.685306365258775,0.215677507417479
+"ring","multistart_eb","matern05","Matern 0.5",0.6,0.734086853063653,0.269120130875021
+"ring","multistart_eb","matern05","Matern 0.5",0.7,0.794170136823319,0.331414035551
+"ring","multistart_eb","matern05","Matern 0.5",0.8,0.829268292682927,0.409793991981752
+"ring","multistart_eb","matern05","Matern 0.5",0.9,0.872694824509221,0.525964894535996
+"ring","multistart_eb","matern05","Matern 0.5",0.95,0.915526472337894,0.626725827472899
+"ring","multistart_eb","matern05","Matern 0.5",0.975,0.938132064247472,0.716719791913868
+"ring","multistart_eb","matern05","Matern 0.5",0.99,0.954193932183224,0.823657355150056
+"ring","multistart_eb","matern15","Matern 1.5",0.5,0.569303985722784,0.144954667479795
+"ring","multistart_eb","matern15","Matern 1.5",0.6,0.637715645449137,0.180872913222226
+"ring","multistart_eb","matern15","Matern 1.5",0.7,0.678762641284949,0.222740015389936
+"ring","multistart_eb","matern15","Matern 1.5",0.8,0.725163593099346,0.275418389957333
+"ring","multistart_eb","matern15","Matern 1.5",0.9,0.779892920880428,0.353495676514538
+"ring","multistart_eb","matern15","Matern 1.5",0.95,0.817965496728138,0.421216078626525
+"ring","multistart_eb","matern15","Matern 1.5",0.975,0.84651992861392,0.481700110303869
+"ring","multistart_eb","matern15","Matern 1.5",0.99,0.868530636525877,0.553571763058072
+"ring","multistart_eb","matern25","Matern 2.5",0.5,0.533016061867936,0.128259678059133
+"ring","multistart_eb","matern25","Matern 2.5",0.6,0.599048185603807,0.160041080586341
+"ring","multistart_eb","matern25","Matern 2.5",0.7,0.656751933372992,0.197086186747188
+"ring","multistart_eb","matern25","Matern 2.5",0.8,0.693634741225461,0.243697389271139
+"ring","multistart_eb","matern25","Matern 2.5",0.9,0.745389649018441,0.312782212903697
+"ring","multistart_eb","matern25","Matern 2.5",0.95,0.781082688875669,0.372702994510327
+"ring","multistart_eb","matern25","Matern 2.5",0.975,0.813801308744795,0.426220846439695
+"ring","multistart_eb","matern25","Matern 2.5",0.99,0.841760856632957,0.489814763104136
+"edge","multistart_eb","rbf","RBF",0.5,0.372992266508031,0.111489073840277
+"edge","multistart_eb","rbf","RBF",0.6,0.439024390243902,0.139114896598618
+"edge","multistart_eb","rbf","RBF",0.7,0.504461629982153,0.171316167011003
+"edge","multistart_eb","rbf","RBF",0.8,0.581201665675193,0.211832718109634
+"edge","multistart_eb","rbf","RBF",0.9,0.667459845330161,0.271884350234126
+"edge","multistart_eb","rbf","RBF",0.95,0.726353361094587,0.323970185363298
+"edge","multistart_eb","rbf","RBF",0.975,0.745984533016062,0.370490306385085
+"edge","multistart_eb","rbf","RBF",0.99,0.765615704937537,0.425768995510794
+"edge","multistart_eb","matern05","Matern 0.5",0.5,0.694229625223082,0.221931710078324
+"edge","multistart_eb","matern05","Matern 0.5",0.6,0.757882212968471,0.276924059336358
+"edge","multistart_eb","matern05","Matern 0.5",0.7,0.790005948839976,0.341024358703392
+"edge","multistart_eb","matern05","Matern 0.5",0.8,0.817965496728138,0.421677172132242
+"edge","multistart_eb","matern05","Matern 0.5",0.9,0.856632956573468,0.541216791139896
+"edge","multistart_eb","matern05","Matern 0.5",0.95,0.886377156454491,0.644899583210044
+"edge","multistart_eb","matern05","Matern 0.5",0.975,0.907792980368828,0.737503186915701
+"edge","multistart_eb","matern05","Matern 0.5",0.99,0.928613920285544,0.847541718818229
+"edge","multistart_eb","matern15","Matern 1.5",0.5,0.49970255800119,0.13832539463551
+"edge","multistart_eb","matern15","Matern 1.5",0.6,0.584176085663296,0.172600976121215
+"edge","multistart_eb","matern15","Matern 1.5",0.7,0.670434265318263,0.212553352476402
+"edge","multistart_eb","matern15","Matern 1.5",0.8,0.734086853063653,0.26282256475829
+"edge","multistart_eb","matern15","Matern 1.5",0.9,0.766805472932778,0.337329109893172
+"edge","multistart_eb","matern15","Matern 1.5",0.95,0.790005948839976,0.401952426340169
+"edge","multistart_eb","matern15","Matern 1.5",0.975,0.804283164782867,0.459670316328647
+"edge","multistart_eb","matern15","Matern 1.5",0.99,0.827483640690065,0.528255032524263
+"edge","multistart_eb","matern25","Matern 2.5",0.5,0.444378346222487,0.124458195508505
+"edge","multistart_eb","matern25","Matern 2.5",0.6,0.524092801903629,0.155297630544684
+"edge","multistart_eb","matern25","Matern 2.5",0.7,0.607971445568114,0.191244758550684
+"edge","multistart_eb","matern25","Matern 2.5",0.8,0.681737061273052,0.236474453840718
+"edge","multistart_eb","matern25","Matern 2.5",0.9,0.746579417013682,0.303511675642939
+"edge","multistart_eb","matern25","Matern 2.5",0.95,0.763236168947055,0.361656468028759
+"edge","multistart_eb","matern25","Matern 2.5",0.975,0.78167757287329,0.413588106868127
+"edge","multistart_eb","matern25","Matern 2.5",0.99,0.798929208804283,0.475297166434966
+"sine","multistart_eb","rbf","RBF",0.5,0.263533610945866,0.0454273481700755
+"sine","multistart_eb","rbf","RBF",0.6,0.323022010707912,0.056683768424547
+"sine","multistart_eb","rbf","RBF",0.7,0.39738251041047,0.0698045009964028
+"sine","multistart_eb","rbf","RBF",0.8,0.471148126115408,0.0863133785931891
+"sine","multistart_eb","rbf","RBF",0.9,0.597263533610946,0.110782022082046
+"sine","multistart_eb","rbf","RBF",0.95,0.686496133254015,0.132004921202473
+"sine","multistart_eb","rbf","RBF",0.975,0.785841760856633,0.150960013946344
+"sine","multistart_eb","rbf","RBF",0.99,0.875074360499703,0.173483873646682
+"sine","multistart_eb","matern05","Matern 0.5",0.5,0.773944080904224,0.192455549310076
+"sine","multistart_eb","matern05","Matern 0.5",0.6,0.864961332540155,0.240144015192538
+"sine","multistart_eb","matern05","Matern 0.5",0.7,0.94824509220702,0.295730746449955
+"sine","multistart_eb","matern05","Matern 0.5",0.8,0.979773944080904,0.365671547187148
+"sine","multistart_eb","matern05","Matern 0.5",0.9,0.993456276026175,0.469334349732651
+"sine","multistart_eb","matern05","Matern 0.5",0.95,0.997025580011898,0.559246371294691
+"sine","multistart_eb","matern05","Matern 0.5",0.975,0.998810232004759,0.639550701906009
+"sine","multistart_eb","matern05","Matern 0.5",0.99,0.99940511600238,0.734974317103231
+"sine","multistart_eb","matern15","Matern 1.5",0.5,0.48780487804878,0.0819383718338608
+"sine","multistart_eb","matern15","Matern 1.5",0.6,0.5639500297442,0.102241840679895
+"sine","multistart_eb","matern15","Matern 1.5",0.7,0.647828673408685,0.125908013316262
+"sine","multistart_eb","matern15","Matern 1.5",0.8,0.75669244497323,0.155685462486766
+"sine","multistart_eb","matern15","Matern 1.5",0.9,0.877453896490184,0.199820127819946
+"sine","multistart_eb","matern15","Matern 1.5",0.95,0.950624628197501,0.238100368018241
+"sine","multistart_eb","matern15","Matern 1.5",0.975,0.989292088042832,0.272290112741569
+"sine","multistart_eb","matern15","Matern 1.5",0.99,0.995240928019036,0.312916926007233
+"sine","multistart_eb","matern25","Matern 2.5",0.5,0.420582986317668,0.0638062560146553
+"sine","multistart_eb","matern25","Matern 2.5",0.6,0.498512790005949,0.0796167768021856
+"sine","multistart_eb","matern25","Matern 2.5",0.7,0.565734681737061,0.0980458697451706
+"sine","multistart_eb","matern25","Matern 2.5",0.8,0.653182629387269,0.121233876813323
+"sine","multistart_eb","matern25","Matern 2.5",0.9,0.764425936942296,0.155601996320017
+"sine","multistart_eb","matern25","Matern 2.5",0.95,0.857822724568709,0.185411214537672
+"sine","multistart_eb","matern25","Matern 2.5",0.975,0.921475312314099,0.212035121701896
+"sine","multistart_eb","matern25","Matern 2.5",0.99,0.975014872099941,0.243671640591296

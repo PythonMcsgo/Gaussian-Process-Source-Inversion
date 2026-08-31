@@ -1,0 +1,2 @@
+"source","source_label","sampler","kernel","noise_ratio","sigma_noise","RMSE","MAE","Coverage95","Width95","Calibration_MAE","CRPS","NLPD"
+"spike","Hidden narrow spike","four-chain ARWM","Matern 0.5",0.01,2.22890794398885e-05,0.0462113253199439,0.0126311563287163,0.973230220107079,0.161829996171936,0.155693411659726,0.0155432615507329,-1.98147872340327

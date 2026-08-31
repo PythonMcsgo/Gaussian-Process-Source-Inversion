@@ -1,0 +1,7 @@
+"Source","Lowest RMSE","Lowest calibration MAE","Lowest CRPS"
+"Narrow spike","Variance x gradient","Random","Uniform"
+"Broad + sharp","Maximum variance","Variance x gradient","Uniform"
+"Dipole","Random","Random","Random"
+"Ring","Random","Maximum variance","Random"
+"Moving edge","Uniform","Random","Uniform"
+"Sine-cosine","Uniform","Maximum variance","Uniform"

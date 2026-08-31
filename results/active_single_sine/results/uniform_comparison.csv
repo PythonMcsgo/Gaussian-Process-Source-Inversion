@@ -1,0 +1,4 @@
+"budget","method","label","RMSE","RMSE_uniform","RMSE_difference","relative_RMSE_gain_percent"
+16,"random","Random",0.283757381858078,0.171614857486664,0.112142524371414,-65.3454636817376
+16,"max_source_variance","Max source variance",0.19337200954652,0.171614857486664,0.0217571520598552,-12.6778953631948
+16,"variance_times_gradient","Variance x |gradient mean|",0.447836007817881,0.171614857486664,0.276221150331217,-160.954100581112

@@ -1,0 +1,2 @@
+"source","chains","pooled_retained_draws","max_Rhat_hyperparameters","min_ESS_hyperparameters","max_Rhat_downstream","min_ESS_downstream","mean_sampling_acceptance","min_ESS_per_second","total_sampling_seconds"
+"dipole",4,480,1.00293616424342,619.541412828771,1.00253584201949,715.111855714023,0.217232142857143,14.9683839775011,41.39

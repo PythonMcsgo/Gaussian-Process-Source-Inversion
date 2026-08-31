@@ -1,0 +1,8 @@
+"parameter","value"
+"master_seed",20161387
+"inverse_grid",15
+"truth_grid",41
+"green_modes_per_axis",36
+"observation_grid",7
+"noise_ratio",0.01
+"optim_starts",6

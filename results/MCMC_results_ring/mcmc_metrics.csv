@@ -1,0 +1,2 @@
+"source","source_label","sampler","kernel","noise_ratio","sigma_noise","RMSE","MAE","Coverage95","Width95","Calibration_MAE","CRPS","NLPD"
+"ring","Ring-shaped source","four-chain ARWM","Matern 0.5",0.01,0.000170605227952457,0.161061912620943,0.103035197456908,0.924449732302201,0.676427004152713,0.0667322278405711,0.0861689186592732,-0.404015578063976

@@ -1,0 +1,33 @@
+"source","source_label","budget","method","label","nominal","empirical"
+"sine","Sine-cosine source",16,"uniform","Uniform",0.5,0.630577037477692
+"sine","Sine-cosine source",16,"uniform","Uniform",0.6,0.695419393218322
+"sine","Sine-cosine source",16,"uniform","Uniform",0.7,0.755502676977989
+"sine","Sine-cosine source",16,"uniform","Uniform",0.8,0.812611540749554
+"sine","Sine-cosine source",16,"uniform","Uniform",0.9,0.867340868530637
+"sine","Sine-cosine source",16,"uniform","Uniform",0.95,0.892920880428317
+"sine","Sine-cosine source",16,"uniform","Uniform",0.975,0.908387864366449
+"sine","Sine-cosine source",16,"uniform","Uniform",0.99,0.929803688280785
+"sine","Sine-cosine source",16,"random","Random",0.5,0.476502082093992
+"sine","Sine-cosine source",16,"random","Random",0.6,0.533610945865556
+"sine","Sine-cosine source",16,"random","Random",0.7,0.598453301606187
+"sine","Sine-cosine source",16,"random","Random",0.8,0.667459845330161
+"sine","Sine-cosine source",16,"random","Random",0.9,0.737061273051755
+"sine","Sine-cosine source",16,"random","Random",0.95,0.789411064842356
+"sine","Sine-cosine source",16,"random","Random",0.975,0.823319452706722
+"sine","Sine-cosine source",16,"random","Random",0.99,0.852468768590125
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.5,0.505056513979774
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.6,0.596668649613325
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.7,0.676977989292088
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.8,0.763236168947055
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.9,0.847709696609161
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.95,0.873884592504462
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.975,0.890541344437835
+"sine","Sine-cosine source",16,"max_source_variance","Max source variance",0.99,0.912552052349792
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.5,0.23022010707912
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.6,0.270077334919691
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.7,0.325996430696014
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.8,0.365853658536585
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.9,0.425342058298632
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.95,0.48720999405116
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.975,0.528851873884593
+"sine","Sine-cosine source",16,"variance_times_gradient","Variance x |gradient mean|",0.99,0.580011897679952

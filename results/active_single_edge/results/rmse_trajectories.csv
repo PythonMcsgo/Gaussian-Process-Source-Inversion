@@ -1,0 +1,40 @@
+"source","source_label","method","label","n","RMSE"
+"edge","Moving-edge source","random","Random",4,0.282393000774689
+"edge","Moving-edge source","random","Random",5,0.284950347637601
+"edge","Moving-edge source","random","Random",6,0.283888328516118
+"edge","Moving-edge source","random","Random",7,0.287379502894504
+"edge","Moving-edge source","random","Random",8,0.286076811752382
+"edge","Moving-edge source","random","Random",9,0.276648501879373
+"edge","Moving-edge source","random","Random",10,0.272230084224875
+"edge","Moving-edge source","random","Random",11,0.271057232353361
+"edge","Moving-edge source","random","Random",12,0.269653491885811
+"edge","Moving-edge source","random","Random",13,0.267648564617916
+"edge","Moving-edge source","random","Random",14,0.271669087786487
+"edge","Moving-edge source","random","Random",15,0.269148861848544
+"edge","Moving-edge source","random","Random",16,0.263670255598241
+"edge","Moving-edge source","max_source_variance","Max source variance",4,0.282393000774689
+"edge","Moving-edge source","max_source_variance","Max source variance",5,0.28300887934641
+"edge","Moving-edge source","max_source_variance","Max source variance",6,0.281840165222074
+"edge","Moving-edge source","max_source_variance","Max source variance",7,0.278540926187171
+"edge","Moving-edge source","max_source_variance","Max source variance",8,0.267856101305668
+"edge","Moving-edge source","max_source_variance","Max source variance",9,0.267240611388384
+"edge","Moving-edge source","max_source_variance","Max source variance",10,0.260313485824081
+"edge","Moving-edge source","max_source_variance","Max source variance",11,0.249237807268049
+"edge","Moving-edge source","max_source_variance","Max source variance",12,0.247010482133533
+"edge","Moving-edge source","max_source_variance","Max source variance",13,0.246802177422874
+"edge","Moving-edge source","max_source_variance","Max source variance",14,0.24910686085967
+"edge","Moving-edge source","max_source_variance","Max source variance",15,0.245652730040739
+"edge","Moving-edge source","max_source_variance","Max source variance",16,0.244566737861766
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",4,0.282393000774689
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",5,0.274211215047904
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",6,0.285192157432756
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",7,0.276878412617024
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",8,0.275887472642792
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",9,0.293189027039333
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",10,0.26261827571261
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",11,0.256656505735896
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",12,0.256384737159789
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",13,0.258455236687831
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",14,0.2635270669924
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",15,0.257785596800564
+"edge","Moving-edge source","variance_times_gradient","Variance x |gradient mean|",16,0.255333321445229

@@ -1,0 +1,2 @@
+"source","source_label","sampler","kernel","noise_ratio","sigma_noise","RMSE","MAE","Coverage95","Width95","Calibration_MAE","CRPS","NLPD"
+"mixture","Broad plus sharp source","four-chain ARWM","Matern 0.5",0.01,0.000209304304944129,0.0643411082251884,0.0374248412384816,0.989292088042832,0.37207701184547,0.151054803688281,0.033034255507303,-1.25176286828942

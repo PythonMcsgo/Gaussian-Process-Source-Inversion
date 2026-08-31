@@ -1,0 +1,5 @@
+"kernel","label","max_symmetry_error","minimum_eigenvalue","max_diagonal_error"
+"rbf","RBF",0,2.10891957942015e-11,0
+"matern05","Matern 0.5",0,0.0594470903309556,0
+"matern15","Matern 1.5",0,0.00537378740827787,0
+"matern25","Matern 2.5",0,0.000787460257732986,0

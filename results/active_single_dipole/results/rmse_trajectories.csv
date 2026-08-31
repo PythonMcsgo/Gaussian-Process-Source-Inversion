@@ -1,0 +1,40 @@
+"source","source_label","method","label","n","RMSE"
+"dipole","Positive-negative dipole","random","Random",4,0.173442701691738
+"dipole","Positive-negative dipole","random","Random",5,0.172585306855914
+"dipole","Positive-negative dipole","random","Random",6,0.172511359194402
+"dipole","Positive-negative dipole","random","Random",7,0.166217452862111
+"dipole","Positive-negative dipole","random","Random",8,0.16618877171922
+"dipole","Positive-negative dipole","random","Random",9,0.163064926485969
+"dipole","Positive-negative dipole","random","Random",10,0.139293115153974
+"dipole","Positive-negative dipole","random","Random",11,0.13897999977038
+"dipole","Positive-negative dipole","random","Random",12,0.131267320524586
+"dipole","Positive-negative dipole","random","Random",13,0.131135351686057
+"dipole","Positive-negative dipole","random","Random",14,0.124189957618596
+"dipole","Positive-negative dipole","random","Random",15,0.120551731870732
+"dipole","Positive-negative dipole","random","Random",16,0.118807576362526
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",4,0.173442701691738
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",5,0.173444847896135
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",6,0.173445200764666
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",7,0.168779641359848
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",8,0.163562439709043
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",9,0.163562678768098
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",10,0.163564665409221
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",11,0.163522394574211
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",12,0.163537230461284
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",13,0.163489391348724
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",14,0.163545749789539
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",15,0.163553646478735
+"dipole","Positive-negative dipole","max_source_variance","Max source variance",16,0.163567783656603
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",4,0.173442701691738
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",5,0.173420598488254
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",6,0.17269904105832
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",7,0.172608645994015
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",8,0.172608559031569
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",9,0.172586370639836
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",10,0.170344431219692
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",11,0.170343167487462
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",12,0.170016676230852
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",13,0.170163029987708
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",14,0.169340822497786
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",15,0.169333295186079
+"dipole","Positive-negative dipole","variance_times_gradient","Variance x |gradient mean|",16,0.169289488335408

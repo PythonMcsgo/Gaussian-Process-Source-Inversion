@@ -1,0 +1,2 @@
+"source","source_label","sampler","kernel","noise_ratio","sigma_noise","RMSE","MAE","Coverage95","Width95","Calibration_MAE","CRPS","NLPD"
+"sine","Sine-cosine source","four-chain ARWM","Matern 0.5",0.01,0.000283323242111421,0.0864758521304466,0.0628687251740357,0.998810232004759,0.635466222589969,0.151872769185009,0.0537145986242983,-0.785995003568088

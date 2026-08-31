@@ -1,0 +1,40 @@
+"source","source_label","method","label","n","RMSE"
+"ring","Ring-shaped source","random","Random",4,0.267463505548248
+"ring","Ring-shaped source","random","Random",5,0.259406918515665
+"ring","Ring-shaped source","random","Random",6,0.253561954760588
+"ring","Ring-shaped source","random","Random",7,0.228051002556815
+"ring","Ring-shaped source","random","Random",8,0.22799248922087
+"ring","Ring-shaped source","random","Random",9,0.226361616709199
+"ring","Ring-shaped source","random","Random",10,0.223074138645121
+"ring","Ring-shaped source","random","Random",11,0.223236218513833
+"ring","Ring-shaped source","random","Random",12,0.217131052637297
+"ring","Ring-shaped source","random","Random",13,0.214414598390281
+"ring","Ring-shaped source","random","Random",14,0.217139778034702
+"ring","Ring-shaped source","random","Random",15,0.202947672049097
+"ring","Ring-shaped source","random","Random",16,0.202705411879546
+"ring","Ring-shaped source","max_source_variance","Max source variance",4,0.267463505548248
+"ring","Ring-shaped source","max_source_variance","Max source variance",5,0.255207864930284
+"ring","Ring-shaped source","max_source_variance","Max source variance",6,0.246236770306135
+"ring","Ring-shaped source","max_source_variance","Max source variance",7,0.24237827725252
+"ring","Ring-shaped source","max_source_variance","Max source variance",8,0.239307319014319
+"ring","Ring-shaped source","max_source_variance","Max source variance",9,0.231746347899906
+"ring","Ring-shaped source","max_source_variance","Max source variance",10,0.23009576298477
+"ring","Ring-shaped source","max_source_variance","Max source variance",11,0.227432952848338
+"ring","Ring-shaped source","max_source_variance","Max source variance",12,0.22303256659415
+"ring","Ring-shaped source","max_source_variance","Max source variance",13,0.215620292042699
+"ring","Ring-shaped source","max_source_variance","Max source variance",14,0.214195326041934
+"ring","Ring-shaped source","max_source_variance","Max source variance",15,0.213307514005445
+"ring","Ring-shaped source","max_source_variance","Max source variance",16,0.211667765601258
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",4,0.267463505548248
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",5,0.259036093234223
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",6,0.257496705070309
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",7,0.252264434604024
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",8,0.249293579736413
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",9,0.248118540433489
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",10,0.249163674256413
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",11,0.249161836136322
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",12,0.248885472939262
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",13,0.248387120507998
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",14,0.247385333051471
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",15,0.24723089251262
+"ring","Ring-shaped source","variance_times_gradient","Variance x |gradient mean|",16,0.247221294307949

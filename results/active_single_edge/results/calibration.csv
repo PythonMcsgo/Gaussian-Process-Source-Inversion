@@ -1,0 +1,33 @@
+"source","source_label","budget","method","label","nominal","empirical"
+"edge","Moving-edge source",16,"uniform","Uniform",0.5,0.868530636525877
+"edge","Moving-edge source",16,"uniform","Uniform",0.6,0.912552052349792
+"edge","Moving-edge source",16,"uniform","Uniform",0.7,0.953004164187983
+"edge","Moving-edge source",16,"uniform","Uniform",0.8,0.984533016061868
+"edge","Moving-edge source",16,"uniform","Uniform",0.9,0.997620464009518
+"edge","Moving-edge source",16,"uniform","Uniform",0.95,1
+"edge","Moving-edge source",16,"uniform","Uniform",0.975,1
+"edge","Moving-edge source",16,"uniform","Uniform",0.99,1
+"edge","Moving-edge source",16,"random","Random",0.5,0.809042236763831
+"edge","Moving-edge source",16,"random","Random",0.6,0.893515764425937
+"edge","Moving-edge source",16,"random","Random",0.7,0.93575252825699
+"edge","Moving-edge source",16,"random","Random",0.8,0.971445568114218
+"edge","Moving-edge source",16,"random","Random",0.9,0.997025580011898
+"edge","Moving-edge source",16,"random","Random",0.95,1
+"edge","Moving-edge source",16,"random","Random",0.975,1
+"edge","Moving-edge source",16,"random","Random",0.99,1
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.5,0.848899464604402
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.6,0.891136228435455
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.7,0.929208804283165
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.8,0.965496728138013
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.9,0.994051160023795
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.95,1
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.975,1
+"edge","Moving-edge source",16,"max_source_variance","Max source variance",0.99,1
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.5,0.860797144556811
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.6,0.89767995240928
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.7,0.933967876264128
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.8,0.969660916121356
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.9,0.988102320047591
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.95,0.997620464009518
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.975,0.998810232004759
+"edge","Moving-edge source",16,"variance_times_gradient","Variance x |gradient mean|",0.99,1

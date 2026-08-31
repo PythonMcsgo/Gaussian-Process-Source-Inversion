@@ -1,0 +1,40 @@
+"source","source_label","method","label","n","RMSE"
+"spike","Hidden narrow spike","random","Random",4,0.0606414940502671
+"spike","Hidden narrow spike","random","Random",5,0.0580045877565613
+"spike","Hidden narrow spike","random","Random",6,0.0579540742166425
+"spike","Hidden narrow spike","random","Random",7,0.0579978189012235
+"spike","Hidden narrow spike","random","Random",8,0.0579671909943196
+"spike","Hidden narrow spike","random","Random",9,0.0567081425823392
+"spike","Hidden narrow spike","random","Random",10,0.0566705730974577
+"spike","Hidden narrow spike","random","Random",11,0.0566292726046524
+"spike","Hidden narrow spike","random","Random",12,0.0566327319625899
+"spike","Hidden narrow spike","random","Random",13,0.0563443414600223
+"spike","Hidden narrow spike","random","Random",14,0.0562368194297614
+"spike","Hidden narrow spike","random","Random",15,0.0562039994734782
+"spike","Hidden narrow spike","random","Random",16,0.0562440757916982
+"spike","Hidden narrow spike","max_source_variance","Max source variance",4,0.0606414940502671
+"spike","Hidden narrow spike","max_source_variance","Max source variance",5,0.0606432941353283
+"spike","Hidden narrow spike","max_source_variance","Max source variance",6,0.0604553133620924
+"spike","Hidden narrow spike","max_source_variance","Max source variance",7,0.0604445365845269
+"spike","Hidden narrow spike","max_source_variance","Max source variance",8,0.0603249238040951
+"spike","Hidden narrow spike","max_source_variance","Max source variance",9,0.0603268220459219
+"spike","Hidden narrow spike","max_source_variance","Max source variance",10,0.0603239757830611
+"spike","Hidden narrow spike","max_source_variance","Max source variance",11,0.0603327299095248
+"spike","Hidden narrow spike","max_source_variance","Max source variance",12,0.0602718029931147
+"spike","Hidden narrow spike","max_source_variance","Max source variance",13,0.0602501992397701
+"spike","Hidden narrow spike","max_source_variance","Max source variance",14,0.0590959564264739
+"spike","Hidden narrow spike","max_source_variance","Max source variance",15,0.0590966890889382
+"spike","Hidden narrow spike","max_source_variance","Max source variance",16,0.0591017020347252
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",4,0.0606414940502671
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",5,0.0599489223220768
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",6,0.0592451895129783
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",7,0.0567923231730866
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",8,0.0567530547270925
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",9,0.0566255832253467
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",10,0.0563446711564022
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",11,0.0562682515065025
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",12,0.0555377561124887
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",13,0.0544149786443425
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",14,0.0539994099513234
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",15,0.0536350086514934
+"spike","Hidden narrow spike","variance_times_gradient","Variance x |gradient mean|",16,0.0530071146695979

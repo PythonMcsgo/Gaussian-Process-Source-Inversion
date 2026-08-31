@@ -1,0 +1,2 @@
+"source","source_label","sampler","kernel","noise_ratio","sigma_noise","RMSE","MAE","Coverage95","Width95","Calibration_MAE","CRPS","NLPD"
+"dipole","Positive-negative dipole","four-chain ARWM","Matern 0.5",0.01,5.81310412289455e-05,0.0453651226304118,0.0242033218386579,0.98750743604997,0.477890025217595,0.175593768590125,0.0338722492316483,-1.13445006558456
